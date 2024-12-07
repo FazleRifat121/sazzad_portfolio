@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Dice Roller App ",
+    "description": "A simple mobile app that simulates rolling a dice, displaying a random dice side when a button is pressed.",
+    "img": "https://i.ibb.co.com/1MxSScD/Whats-App-Image-2024-12-07-at-12-00-22-PM-2.jpg"
+  },
+  {
+    "id": 2,
+    "title": "UniGuide ",
+    "description": "An app designed to help students select suitable universities, currently focused on universities in Bangladesh.",
+    "img": "https://i.ibb.co.com/p0wvKbT/7872e67f-a32b-4993-b367-0b7703b1a749.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Inventory Management System",
+    "description": "A C# application for managing store inventories, supporting CRUD operations for tracking products efficiently.",
+    "img": "https://i.ibb.co.com/DYFL8L7/e4d8ea0a-6068-48b1-888e-3e464ab44169.jpg"
+  }
+]
